@@ -1,0 +1,14 @@
+# DB1B quarterly zips (about 100 MB each); src/build_routes.py downloads them from BTS
+data/raw/db1b/
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Keys and local clutter
+*.key
+.env
+.DS_Store

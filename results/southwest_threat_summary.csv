@@ -1,0 +1,13 @@
+sample,quantity,value,se
+all threatened routes,"avg threat effect, years 0..+3 (log points)",-0.06118030930338262,0.008219196315023535
+all threatened routes,additional effect once Southwest flies the route (log points),0.007485269427485666,0.011568123518139729
+all threatened routes,"threat plus entry, years 0..+3 (log points)",-0.05369503987589695,
+all threatened routes,threatened routes,507.0,
+all threatened routes,threatened routes Southwest later entered,227.0,
+all threatened routes,never-threatened control routes,2982.0,
+excluding threats that began in 2021,"avg threat effect, years 0..+3 (log points)",-0.06992178181540193,0.00929877508671739
+excluding threats that began in 2021,additional effect once Southwest flies the route (log points),0.009570606853094365,0.014916259537589805
+excluding threats that began in 2021,"threat plus entry, years 0..+3 (log points)",-0.06035117496230756,
+excluding threats that began in 2021,threatened routes,271.0,
+excluding threats that began in 2021,threatened routes Southwest later entered,156.0,
+excluding threats that began in 2021,never-threatened control routes,2982.0,

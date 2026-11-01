@@ -1,0 +1,5 @@
+step,rows
+sampled passengers loaded (after ticket filters),499540799
+all airport-pair years,350019
+dropped: under 730 sampled passengers or under 100 miles,291498
+kept markets,58521
